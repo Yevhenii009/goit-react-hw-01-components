@@ -8,3 +8,50 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <App />
   </React.StrictMode>
 );
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// const div = React.createElement('div', { name: 'main', id: '01', className: 'style', children:['Hello ', 'World'] });
+// console.log(div)
+
+// ReactDOM.createRoot(document.getElementById('root')).render(div);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  // <React.StrictMode>
+  //   <App />
+  // </React.StrictMode>
+
